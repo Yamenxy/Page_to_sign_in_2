@@ -1,0 +1,137 @@
+.sign_up{
+    background-image: linear-gradient(
+    to left ,#FFEDE1 0% ,#ffffff 90%);
+    height: 550px;
+    border-radius: 100px;
+    box-shadow: 0px 13px 20px #000000;
+    padding-top: 10px;
+    padding-bottom: 166px;
+    padding-left: 500px;
+    padding-right: 1078px;
+    display: inline-table;
+    border-radius: 100px;  
+}
+
+.sign_up_2{
+    border-radius: 50px; 
+    width: 400px;
+    height: 670px;
+    box-shadow: 0px 19px 40px 0px rgba(0, 0, 0, 1);
+    background: #fff;
+    padding: 100px;
+    margin: 8% auto o;
+}
+
+.name{
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal; padding-left: 0%;
+    align-self: flex-start;
+    margin-left: 10px;
+}
+
+.name_2{
+    width: 300px; padding-left: 10px;
+    height: 30px; border-radius: 4px;
+    background: #FFF6F4;
+    align-self: flex-start;
+    border-radius: 100px;
+}
+
+.email{
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal; padding-left: 0%;
+    align-self: flex-start;
+    margin-left: 10px;
+}
+
+.email_2{
+    width: 300px; padding-left: 10px;
+    height: 30px; border-radius: 4px;
+    background: #FFF6F4;
+    align-self: flex-start;
+    border-radius: 100px;
+}
+
+.password{
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.password_2{
+    width: 300px; padding-left: 10px;
+    height: 30px; border-radius: 4px;
+    background: #FFF6F4;
+    border-radius: 100px;
+}
+
+.number{
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal; padding-left: 0%;
+    align-self: flex-start;
+    margin-left: 10px;
+}
+
+.number_2{
+    width: 300px; padding-left: 10px;
+    height: 30px; border-radius: 4px;
+    background: #FFF6F4;
+    align-self: flex-start;
+    border-radius: 100px;
+}
+
+.submit{
+    width: 150px;
+    height: 46px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    padding: 10px ;
+    font-size: 10px;
+    background-color: #F47458;
+    border-radius: 100px;
+    margin: auto;
+}
+
+.submit_2{
+    display: flex;
+}
+
+.sign{
+    color: rgba(0, 0, 0, 0.20);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; 
+    letter-spacing: 0.48px;
+}
+.sign_2{
+    color: #F47458;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.48px;
+}
+
+.sign_3{
+    text-align: center;
+    margin-right: 40px;
+}
